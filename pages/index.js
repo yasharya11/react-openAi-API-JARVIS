@@ -57,6 +57,7 @@ export default function Home() {
         </form>
         <div className={styles.result}>{result}</div>
       </main>
+      <div id="root"></div>
     </div>
   );
 }
